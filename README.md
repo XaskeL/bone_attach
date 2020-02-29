@@ -13,6 +13,8 @@ Bone attach for Multi Theft Auto. This rewrite bone_attach by CrystalMV
 4. В settings.lua описаны все проблемы / нюансы.
 5. Код не самый лучший, но я только попробовал себя в эстафете на форуме ( https://forum.mtasa.com/topic/116441-bone_attach-performance/?tab=comments#comment-973483 ) 
 
+Ресурс не тестировался!!! Стабильная работа не гарантируется!!!
+
 -------------------------------------------------------------------------------
 
 The bone_attach from CrystalMV was taken as a basis and rewritten.
@@ -24,3 +26,5 @@ Interesting:
 3. Holds 1000 objects in a stream with 60 FPS
 4. In settings.lua all problems / nuances are described.
 5. The code is not the best, but I just tried myself in the relay race on the forum (https://forum.mtasa.com/topic/116441-bone_attach-performance/?tab=comments#comment-973483)
+
+The resource has not been tested !!! Stable operation is not guaranteed !!!
