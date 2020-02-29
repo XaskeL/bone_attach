@@ -1,0 +1,18 @@
+<meta>
+	<min_mta_version server="1.5.2-9.07903" client="1.5.2-9.07903"/>
+	<info author="CrystalMV, XaskeL" version="1.0.0" name="Bone attachments" description="Attach elements to bones of peds and players" type="script" />
+	<!-- <oop>true</oop> -->
+	
+	<!-- SERVER -->
+	<script type="server" src="server.lua"/>
+	
+	<!-- CLIENT -->
+	<script type="client" cache="false" src="settings.lua"/>
+	<script type="client" cache="false" src="client.lua"/>
+	
+	<!-- EXPORTS -->
+	<export type="shared" function="AttachElementToBone"/>
+	<export type="shared" function="DetachElementFromBone"/>
+	<export type="shared" function="AttachElementSetRotation"/>
+	<export type="shared" function="AttachElementSetPosition"/>
+</meta>
